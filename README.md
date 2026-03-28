@@ -1,7 +1,10 @@
 # Data-Structure-Assignment
 Name:Rolla Manjula
+
 Roll number:CDS-2025-0679
+
 class Roll number:70
+
 course Name: Data structures
 # Assignment Description
 This assignment focuses on the implementation and application of Stack and Queue data structures using the C programming language.
