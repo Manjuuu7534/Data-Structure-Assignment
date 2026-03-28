@@ -1,9 +1,9 @@
 # Data-Structure-Assignment
-Name:Rolla Manjula
+Name: Rolla Manjula
 
-Roll number:CDS-2025-0679
+Roll number: CDS-2025-0679
 
-class Roll number:70
+class Roll number: 70
 
 course Name: Data structures
 # Assignment Description
